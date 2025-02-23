@@ -4,9 +4,8 @@
 IPL_Win_Predictor is a machine learning-based application that predicts the winning probability of IPL cricket teams based on match conditions. It utilizes two datasets: `matches.csv` and `deliveries.csv`, and a trained machine learning model to generate predictions. The application is built using Streamlit, offering an interactive and user-friendly interface for match outcome predictions.
 
 ## Screenshots
-<img src="screenshots/home.png" alt="Home Page" width="100%">
-<img src="screenshots/prediction.png" alt="Prediction Output" width="100%">
 
+<img src="https://github.com/RohitParmar-17/IPL_Win_Predictor/blob/main/ipl1.png" alt="Home Page" width="100%">
 
 ## Features
 - **Predicts Winning Probability**: Provides the probability of winning for both teams.
